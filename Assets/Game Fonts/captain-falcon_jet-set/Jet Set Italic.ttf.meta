@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9d7618dd05f5068449428b68ee6c703e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jet Set
+  fontNames:
+  - Jet Set
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4554d4487ed408943b79ae0a0323e6f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
